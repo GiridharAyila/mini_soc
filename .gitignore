@@ -1,0 +1,7 @@
+# Verilator build directories
+obj_dir/
+obj_dir_alu/
+obj_dir_mini_soc/
+
+# Waveform files
+*.vcd
